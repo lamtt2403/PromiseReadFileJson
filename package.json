@@ -19,6 +19,7 @@
     "nodemon": "^1.18.10"
   },
   "dependencies": {
+    "nodemailer": "^6.1.0",
     "promise": "^8.0.3"
   }
 }
