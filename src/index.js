@@ -1,0 +1,1 @@
+console.log('Using Promise to read Json File in Node.js')
